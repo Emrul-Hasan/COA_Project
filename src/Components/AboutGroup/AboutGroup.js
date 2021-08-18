@@ -77,7 +77,7 @@ const AboutGroup = () => {
                                     <img src={nirob} className="card-img-top w-100" style={{ height: "290px" }} alt="" />
                                     <div className="card-body">
                                         <h5> RAIYAN RAHMAN KHAN</h5>
-                                        <span>ID : 17-35963-1</span> <br />
+                                        <span>ID : 17-35963-3</span> <br />
                                         <span>American International University-Bangladesh</span>
                                     </div>
                                 </div>
