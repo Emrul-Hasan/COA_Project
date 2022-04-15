@@ -9,7 +9,7 @@ const CodeSection = () => {
             <div>
                 <NavBar></NavBar>
                 <div className="section">
-                    <h4 className="my-3 text-center">Initializing the data segment</h4>
+                    <h4 className="my-3 text-center">Initializing the Data Segment</h4>
                     <div className="scroll-box">
                         <div className="text">
                             .MODEL LARGE <br />
@@ -141,7 +141,7 @@ const CodeSection = () => {
                     </div>
                 </div>
                 <div className="section">
-                    <h4 className="my-3 text-center">Bike section</h4>
+                    <h4 className="my-3 text-center">Bike Section</h4>
                     <div className="scroll-box">
                         <div className="text">
                             <br />
@@ -722,7 +722,7 @@ const CodeSection = () => {
                     </div>
                 </div>
                 <div className="section">
-                    <h4 className="my-3 text-center">Pickup van medium section</h4>
+                    <h4 className="my-3 text-center">Pickup-van (Medium section)</h4>
                     <div className="scroll-box">
                         <div className="text">
                             PICKUPVANM: <br />
@@ -1114,7 +1114,7 @@ const CodeSection = () => {
                     </div>
                 </div>
                 <div className="section">
-                    <h4 className="my-3 text-center">Pickup van large Section</h4>
+                    <h4 className="my-3 text-center">Pickup-van (Large)Section</h4>
                     <div className="scroll-box">
                         <div className="text">
                             PICKUPVANL: <br />
@@ -1584,7 +1584,7 @@ const CodeSection = () => {
                     </div>
                 </div>
                 <div className="section">
-                    <h4 className="my-3 text-center">Pickup van Shifter</h4>
+                    <h4 className="my-3 text-center">Pickup-van (Shifter) Section</h4>
                     <div className="scroll-box">
                         <div className="text">
                             PICKUPVANS: <br />
@@ -1800,7 +1800,7 @@ const CodeSection = () => {
                     </div>
                 </div>
                 <div className="section">
-                    <h4 className="my-3 text-center">Micro (large) section</h4>
+                    <h4 className="my-3 text-center">Micro (large) Section</h4>
                     <div className="scroll-box">
                         <div className="text">
                             MICROL:<br />
@@ -1928,7 +1928,7 @@ const CodeSection = () => {
                     </div>
                 </div>
                 <div className="section">
-                    <h4 className="my-3 text-center">Micro (mini) section</h4>
+                    <h4 className="my-3 text-center">Micro (Mini) Section</h4>
                     <div className="scroll-box">
                         <div className="text">
                             MICROS:<br />
